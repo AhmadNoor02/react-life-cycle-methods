@@ -35,7 +35,7 @@ class Main extends Component {
                         <h2>React components lifecycle diagram</h2>
                         <p>Click on a method to see a description.</p>
                         <p>Taken from the <a className="link" href="https://facebook.github.io/react/docs/component-specs.html#lifecycle-methods">React documentation page</a>
-                        ,compiled by <a className="link2" href="https://eduardoboucas.com">Eduardo Bouças</a>.</p>
+                        ,compiled by Ahmad Noor.</p>
                     </li>
                     <li class="Des--close"><a className="Cancel" href="#">X</a></li>
             </ul>
